@@ -1,0 +1,38 @@
+.box{
+    width: 350px;
+    height: 160px;
+    margin: top 15px;
+    margin-left: 3px;
+}
+.paragrafi{
+    color: #777;
+    text-align: center;
+    font-size: 19px;
+    font-weight: 400;
+   
+}
+.box1{
+    width: "1280px";
+    height: "26px";
+    margin-top: 30px;
+}
+h4{
+    color: #001aff;
+    text-align: center;
+    font-size: 19px;
+    font-weight: 700;
+    
+
+}
+.box2{
+    width: 350px;
+    height: 160px;
+    margin-left: 72px;
+    margin-top: 30px;
+}
+.paragrafi1{
+    color: #f00;
+    text-align:justify;
+    font-size: 19px;
+    font-weight: 400;
+}
